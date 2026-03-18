@@ -5,15 +5,15 @@
 ## 📁 **GitHub Codespaces**
 
 **Terminal Commands:**
-```bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install mingw-w64 gcc-mingw-w64-x86-64
-x86_64-w64-mingw32-gcc --version
+```bash ```
+```sudo apt update && sudo apt upgrade -y```
+```sudo apt install mingw-w64 gcc-mingw-w64-x86-64```
+```x86_64-w64-mingw32-gcc --version```
 
 ## 🖥️ **OmarchyOS (Arch Linux based)**
 
-**Terminal Commands: **
-# Update system
+**Terminal Commands:**
+### Update system
 sudo pacman -Syu
 
 ### Install full toolchain
