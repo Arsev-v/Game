@@ -1,0 +1,4 @@
+{
+  "name": "MinGW-w64 C/C++",
+  "postCreateCommand": "sudo apt update && sudo apt install -y mingw-w64 gcc-mingw-w64-x86-64"
+}
