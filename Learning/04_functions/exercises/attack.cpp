@@ -15,7 +15,7 @@ bool isAlive(int health) {
 
 // 3. Main game logic
 int main() {
-    int playerHealth = 20;  // store health in a variable so we can reuse it
+    int playerHealth = 20; // store health in a variable so we can reuse it
     int damage = 15;        // store damage in a variable so we can reuse it
 
     attack(damage);         // call attack — prints the damage line
